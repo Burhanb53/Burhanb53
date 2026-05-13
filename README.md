@@ -185,9 +185,11 @@ Status   : Building in public. Shipping every day.
 ## 🐍 Contribution Snake
 
 <!-- Setup instructions: Create .github/workflows/snake.yml (see repo docs) -->
+
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Burhanb53/output/github-contribution-grid-snake-dark.svg" 
+    width="100%"
+    src="https://raw.githubusercontent.com/Burhanb53/Burhanb53/output/github-contribution-grid-snake-dark.svg"
     alt="Snake animation"
   />
 </p>
