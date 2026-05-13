@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Tripez.in-Live%20Startup-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>&nbsp;
   <!-- Replace # with your portfolio URL -->
-  <a href="#">
+  <a href="https://burhanb53.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=safari&logoColor=white" />
   </a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=burhanb53&label=Profile+Views&color=FF6B35&style=for-the-badge" />
