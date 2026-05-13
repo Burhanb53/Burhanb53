@@ -10,7 +10,10 @@
 
 <!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&random=false&width=1000&lines=🚀+Building+Tripez+—+AI+Travel+for+the+Future;⚙️+DevOps+Engineer+%7C+Docker+•+K8s+•+AWS;🌐+Full+Stack+Developer+%7C+MERN+•+Next.js;📱+Flutter+Developer+%7C+Cross-Platform+Apps;💡+Founder+%7C+Hacker+%7C+Builder+%7C+Creator" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=FF6B35&center=true&vCenter=true&width=1000&lines=Building+Tripez+AI+Travel+Platform;DevOps+Engineer+%7C+Docker+Kubernetes+AWS;Full+Stack+Developer+%7C+MERN+Next.js;Flutter+Developer+%7C+Cross+Platform+Apps;Founder+Builder+Creator"
+    alt="Typing SVG"
+  />
 </p>
 
 <!-- ═══════════════════════ SOCIAL BADGES ═══════════════════════ -->
