@@ -35,7 +35,7 @@
 
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=burhanb53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9" />
+
 
 ### 🧠 About Me
 
@@ -65,7 +65,7 @@ Status   : Building in public. Shipping every day.
 
 <p align="center">
   <!-- Replace with your actual Tripez logo path after uploading to repo -->
-  <!-- <img src="./assets/tripez-logo.png" width="200"/> -->
+  <img src="./assets/tripez-logo.png" width="200"/>
   <br/>
   <a href="https://tripez.in">
     <img src="https://img.shields.io/badge/🌍%20Tripez.in-AI%20Travel%20Platform-FF6B35?style=for-the-badge" />
@@ -138,14 +138,33 @@ Status   : Building in public. Shipping every day.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burhanb53&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35&text_color=c9d1d9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanb53&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=burhanb53&theme=tokyonight&hide_border=true&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
-</p>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=burhanb53&theme=tokyonight&hide_border=true&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" 
+  width="95%"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=burhanb53&theme=tokyonight"
+  width="95%"
+/>
+
+<br/><br/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=burhanb53&theme=tokyonight"
+  width="47%"
+/>
+
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=burhanb53&theme=tokyonight"
+  width="47%"
+/>
+
+</div>
 
 ---
 
@@ -167,7 +186,10 @@ Status   : Building in public. Shipping every day.
 
 <!-- Setup instructions: Create .github/workflows/snake.yml (see repo docs) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/burhanb53/burhanb53/output/github-contribution-grid-snake-dark.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/Burhanb53/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation"
+  />
 </p>
 
 ---
@@ -185,16 +207,6 @@ Status   : Building in public. Shipping every day.
 <!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
 ## 💎 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/burhanb53/trip-planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burhanb53&repo=trip-planner&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35" />
-  </a>
-  <!-- Replace repo names with your actual repository names -->
-  <a href="https://github.com/burhanb53/hissab-book">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=burhanb53&repo=hissab-book&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=FF6B35" />
-  </a>
-</p>
 
 ### ✈️ Trip Planner — AI-Powered MERN App
 > React.js • Node.js • Express.js • Firebase • Gemini API • AWS
